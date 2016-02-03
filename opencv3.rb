@@ -14,7 +14,7 @@ class Opencv3Plus < Formula
   end
 
   head do
-    url "https://github.com/Itseez/opencv.git", :tag => "3.1.0"
+    url "https://github.com/Itseez/opencv.git"
     resource "contrib" do
       url "https://github.com/GustavHager/opencv_contrib.git"
     end
