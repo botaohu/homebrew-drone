@@ -1,4 +1,4 @@
-class Opencv3 < Formula
+class Opencv3Plus < Formula
   desc "Open source computer vision library, version 3"
   homepage "http://opencv.org/"
   revision 1
